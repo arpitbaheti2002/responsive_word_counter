@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.container{
+  width: 500px;
+  margin: 10% auto;
+  padding: 2.5%;
+  box-shadow: 0px 0px 10px #CCC;
+}
+
+.paragraph{
+  width: 95%;
+  margin: 20px 0;
+  font-size: 1.1rem;
+  padding: 10px;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.result{
+  text-align: left;
+  font-size: 1.2rem;
+  color: #888;
+}
